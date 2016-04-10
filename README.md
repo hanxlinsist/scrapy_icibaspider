@@ -8,4 +8,6 @@ cd scrapy_icibaspider
 
 scrapy crawl iciba -o filename.csv -t csv
 
+####Example image
+![iciba sentence](https://raw.githubusercontent.com/hanxlinsist/scrapy_icibaspider/master/icibaspider/sample.png)
 
