@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # scrapy_icibaspider
 爬取有道词典上的每日一句名言（英汉对照）
 
@@ -11,3 +12,4 @@ scrapy crawl iciba -o filename.csv -t csv
 ####Example image
 ![iciba sentence](https://raw.githubusercontent.com/hanxlinsist/scrapy_icibaspider/master/icibaspider/sample.png)
 
+=======
